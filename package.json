@@ -1,0 +1,25 @@
+{
+  "name": "2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "xzf": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzfmjh/xixi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xzfmjh/xixi/issues"
+  },
+  "homepage": "https://github.com/xzfmjh/xixi#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1",
+    "less": "^3.11.1"
+  }
+}
